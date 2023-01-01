@@ -1,0 +1,8 @@
+//
+// Created by home on 1/1/23.
+//
+
+#ifndef CALC_DISPLAYCOMPONENT_H
+#define CALC_DISPLAYCOMPONENT_H
+
+#endif //CALC_DISPLAYCOMPONENT_H

@@ -1,0 +1,8 @@
+//
+// Created by home on 1/1/23.
+//
+
+#ifndef CALC_KEYBOARDCOMPONENT_H
+#define CALC_KEYBOARDCOMPONENT_H
+
+#endif //CALC_KEYBOARDCOMPONENT_H

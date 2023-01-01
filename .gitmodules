@@ -1,0 +1,6 @@
+[submodule "JUCE"]
+	path = modules/JUCE
+	url = https://github.com/juce-framework/JUCE
+[submodule "melatonin_inspector"]
+	path = modules/melatonin_inspector
+	url = https://github.com/sudara/melatonin_inspector
