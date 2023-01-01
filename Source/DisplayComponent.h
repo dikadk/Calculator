@@ -7,9 +7,9 @@
 struct DigitalDisplayLookAndFeel: juce::LookAndFeel_V4{
     DigitalDisplayLookAndFeel()= default;
 
-    juce::Font getTextButtonFont (juce::TextButton&, int buttonHeight) override
+    juce::Font getLabelFont (juce::Label& label) override
     {
-        return { "Digital-7 Mono", buttonHeight * 0.7f, juce::Font::plain };
+        return { "Digital-7 Mono", label.getHeight() * 1.f, juce::Font::plain };
     }
 };
 

@@ -27,7 +27,7 @@ public:
             {
                 btn->setColour (juce::TextButton::buttonColourId, colors_classic::pink);
                 btn->onClick = [this]() {
-                    model.resetInput();
+                    model.inputOperator (Operator::RESET);
                 };
             }
             else if (btn == &equalsBtn)
